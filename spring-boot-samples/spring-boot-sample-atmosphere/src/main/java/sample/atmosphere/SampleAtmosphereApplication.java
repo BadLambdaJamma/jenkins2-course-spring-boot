@@ -35,6 +35,9 @@ import org.springframework.core.Ordered;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
+/*
+	A sample chat application
+ */
 @SpringBootConfiguration
 @EnableAutoConfiguration
 public class SampleAtmosphereApplication {
